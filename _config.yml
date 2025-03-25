@@ -1,0 +1,6 @@
+title: " Documentatie"
+description: "Documentatie voor het opzetten van pfsense met HA, VLANs en andere netwerkconfiguraties"
+baseurl: "/"
+url: "https://laurensDSM.github.io/Docs-RadiFi"  
+theme: jekyll-theme-slate
+markdown: kramdown
